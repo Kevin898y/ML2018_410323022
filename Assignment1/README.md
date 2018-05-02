@@ -46,11 +46,11 @@
     
 * Gradient Descent
     
-    我使用mini-batch gradient descent，每一個epoch都先將所有Data亂數洗牌一次，再以每Batch_Size一組去計算Gradient，並更新W
+    我使用mini-batch gradient descent，每一個epoch都先將所有Data亂數洗牌一次，再以每Batch_Size一組去計算Gradient，並更新weight
 
 * decrypt
 
-    創一個W* H的空影像，利用求出的 W 計算出每一個像素值，並填入空影像
+    創一個W* H的空影像，利用求出的 weight 計算出每一個像素值，並填入空影像
 
 
 ## Result
