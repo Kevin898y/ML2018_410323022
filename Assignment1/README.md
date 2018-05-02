@@ -4,6 +4,24 @@
 
 >jupyter notebook
 
+## Input
+
+*  Image Key 1 (K1).
+
+  ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/Image_Data/key1.png)
+ 
+*  Image Key 1 (K1)
+
+  ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/Image_Data/key2.png)
+
+*  The input image to be encrypted (I).
+
+  ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/Image_Data/I.png)
+
+*  The encrypted image (E)
+
+  ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/Image_Data/E.png)
+
 ## training samples
 * Train_X 是取圖 K1,K2, I 各一個像素為一行，共 W * H 列
   
@@ -40,7 +58,10 @@
 
    w = [ 0.2500258, 0.65998725 , 0.09003878]
  
-     
+* encrypted image (E')
+
+  ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/Image_Data/Eprime.png) 
+  
 * decrypt image
 
    ![screenshot](https://github.com/Kevin898y/ML2018_410323022/blob/master/Assignment1/decrypt.png)
